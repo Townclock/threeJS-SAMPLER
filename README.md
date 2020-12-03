@@ -1,7 +1,7 @@
 # threeJS-SAMPLER
 Cassandra Ravenbrook
 
-![Alt text](./result.jpg "Results")
+![Alt text](./result.JPG "Results")
 
 
 Assets:
