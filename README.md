@@ -1,7 +1,7 @@
 # threeJS-SAMPLER
 Cassandra Ravenbrook
 
-![Alt text](./result.JPG "Results")
+![Alt text](./blubby.JPG "Results")
 
 
 Assets:  (KEEP TRACK OF WHAT YOU USE AND PROVIDE ATTRIBUTION)
