@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-    <title>intro</title>
+    <title>Cass's Scene</title>
     
 	</head>
 	<body>
@@ -89,9 +89,17 @@ function init() {
   function onError() {}
 
   const loader = new OBJLoader( manager );
-  loader.load( 'objs/male02.obj', function ( obj ) {
+  loader.load( 'objs/whale/exo/whale_final.obj', function ( obj ) {
 
     object = obj;
+		
+	object.position.y = 90;
+	object.scale.x = 10;
+	object.scale.y = 10;
+	object.scale.z = 10;
+    console.log(object)
+	
+	
 
   }, onProgress, onError );
 
